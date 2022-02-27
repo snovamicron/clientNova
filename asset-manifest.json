@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clientNova/static/css/main.e3fda371.css",
+    "main.js": "/clientNova/static/js/main.59ec4cfe.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/clientNova/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/clientNova/index.html",
+    "main.e3fda371.css.map": "/clientNova/static/css/main.e3fda371.css.map",
+    "main.59ec4cfe.js.map": "/clientNova/static/js/main.59ec4cfe.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/clientNova/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3fda371.css",
+    "static/js/main.59ec4cfe.js"
+  ]
+}
